@@ -1,1 +1,1 @@
-# ibr07
+streamlit run app.py
